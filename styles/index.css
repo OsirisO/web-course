@@ -1,0 +1,41 @@
+body {
+    background-color:#f7f7e8;
+}
+
+img {
+    height: 150px;
+    border-radius: 100%;
+}
+
+h2 {
+ padding-left: 10px;
+ padding-top: 10px;
+}
+
+a:hover{
+    background-color: #9dad7f;
+    border-radius: 75%;
+}
+
+.introductionTable {
+    background-color: #557174;
+    margin-bottom: -18px;
+}
+
+.education {
+    background-color: #9dad7f; 
+    padding-bottom: 2px
+}
+
+.workExperienceTable {
+    margin-bottom: -17px;
+}
+
+.dates {
+    width:20%; background-color: #c7cfb7; padding:10px
+}
+
+.lightFont{
+    color: #f7f7e8;
+}
+
